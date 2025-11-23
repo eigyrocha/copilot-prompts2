@@ -1,181 +1,125 @@
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+## Meus resultados
+🧩 **VISÃO DO DIA A DIA**
 
-Carreira em Tecnologia
+Como é o trabalho de um(a) Cientista de Dados / Machine Learning Engineer:
 
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+- Coletar, limpar e organizar grandes volumes de dados  
+- Explorar dados e gerar insights com estatística e visualização  
+- Construir e treinar modelos de machine learning  
+- Validar e otimizar modelos para produção  
+- Comunicar resultados para stakeholders e equipes de negócio  
 
+---
 
-## 🎯 SUA MISSÃO
+🧠 **MAPA DE SKILLS**
 
-Receber as informações do Agent 1 e gerar um plano completo de estudos com:
-- Visão do dia a dia
-- Mapa de skills
-- Roadmap de 90 dias
-- Projeto de portfólio
-- Roteiro de entrevistas
-- Trilha DIO
+**CORE SKILLS (essenciais):**
+- Programação em Python (pandas, scikit-learn, numpy)  
+- Estatística e probabilidade aplicadas  
+- Machine Learning supervisionado e não supervisionado  
 
+**NICE-TO-HAVE (complementares):**
+- Deep Learning (TensorFlow/PyTorch)  
+- Engenharia de dados (ETL, pipelines)  
 
-## 📥 DADOS QUE VOCÊ RECEBE
+**FERRAMENTAS E TECNOLOGIAS:**
+- Jupyter Notebook  
+- SQL  
+- Git/GitHub  
 
-O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+---
 
+📅 **ROADMAP DE 90 DIAS**
 
-## 🎬 INICIAR CONVERSA
+**ADAPTADO PARA: 18 horas/semana**
 
-"Olá! Recebi suas informações do entrevistador. 
+### MÊS 1 - FUNDAMENTOS
 
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
+**SEMANA 1-2:**
+- Revisar Python para análise de dados (pandas, numpy)  
+- Estudar estatística descritiva e inferencial aplicada a datasets  
 
-Vou montar agora seu plano completo personalizado..."
+**SEMANA 3-4:**
+- Aprender SQL para consultas em bases relacionais  
+- Praticar visualização de dados (matplotlib, seaborn)  
 
+---
 
-## 📦 GERAR PLANO COMPLETO
+### MÊS 2 - PRÁTICA
 
-(use exatamente este formato)
+**SEMANA 5-6:**
+- Introdução a Machine Learning (regressão linear, regressão logística, árvores de decisão)  
+- Implementar modelos simples em scikit-learn  
 
-🧩 VISÃO DO DIA A DIA
+**SEMANA 7-8:**
+- Explorar técnicas de validação (cross-validation, métricas de avaliação)  
+- Estudar pipelines e pré-processamento de dados  
 
-Como é o trabalho de um(a) (CARREIRA):
+---
 
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
+### MÊS 3 - PORTFÓLIO E PREPARAÇÃO
 
-🧠 MAPA DE SKILLS
+**SEMANA 9-10:**
+- Criar projeto de portfólio com dataset público (Kaggle ou UCI)  
+- Documentar código e resultados no GitHub  
 
-CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+**SEMANA 11-12:**
+- Revisar conceitos avançados (ensembles, random forest, gradient boosting)  
+- Simular entrevistas técnicas e revisar perguntas comuns  
 
-NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+---
 
-FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
+🚀 **PROJETO DE PORTFÓLIO**
 
-📅 ROADMAP DE 90 DIAS
+**PROJETO:** Predição de Churn em Clientes  
 
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
+**O QUE FAZER:**  
+Construir um modelo que prevê se um cliente irá cancelar um serviço, usando dados históricos de comportamento.  
 
-MÊS 1 - FUNDAMENTOS
+**ENTREGÁVEIS:**  
+- Dataset tratado e explorado  
+- Notebook com modelo treinado e validado  
+- Relatório com insights e recomendações  
 
-SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
+**CRITÉRIOS DE ACEITAÇÃO:**  
+- Modelo com acurácia mínima de 75%  
+- Código limpo e reprodutível no GitHub  
+- Visualizações claras para explicar resultados  
 
-SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
+**DICA:** Use datasets de churn disponíveis no Kaggle e foque em explicar o impacto do modelo para o negócio.  
 
-MÊS 2 - PRÁTICA
+---
 
-SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
+💬 **ROTEIRO DE ENTREVISTAS**
 
-SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
+**PERGUNTA 1:** O que é overfitting?  
+**COMO RESPONDER:** Explique que é quando o modelo aprende demais os dados de treino e não generaliza bem. Cite técnicas como regularização e cross-validation.  
 
-MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+**PERGUNTA 2:** Qual a diferença entre regressão linear e logística?  
+**COMO RESPONDER:** Linear prevê valores contínuos, logística prevê probabilidades para classes binárias.  
 
-SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
+**PERGUNTA 3:** Como você lida com dados faltantes?  
+**COMO RESPONDER:** Cite estratégias como remoção, imputação com média/mediana ou uso de algoritmos que lidam com missing values.  
 
-SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
+**PERGUNTA 4:** Explique o processo de validação de um modelo.  
+**COMO RESPONDER:** Dividir dataset em treino/teste, usar cross-validation e métricas como precisão, recall e F1-score.  
 
-🚀 PROJETO DE PORTFÓLIO
+**PERGUNTA 5:** Qual foi o projeto mais desafiador que você fez?  
+**COMO RESPONDER:** Estruture em contexto, desafio, solução e resultado. Mostre impacto e aprendizado.  
 
-PROJETO: (nome do projeto)
+---
 
-O QUE FAZER:
-(descrição clara do escopo)
+🎓 **TRILHA DIO RECOMENDADA**
 
-ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
+**TRILHA:** Bootcamp *Cientista de Dados com Python* (DIO)  
 
-CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
+**POR QUE ESSA TRILHA:**  
+Conecta diretamente com a carreira escolhida, cobrindo Python, estatística, machine learning e projetos práticos que fortalecem o portfólio.  
 
-DICA: (dica prática para executar o projeto)
+**PRÓXIMOS PASSOS:**  
+1. Acesse dio.me  
+2. Busque por "Bootcamp Cientista de Dados com Python"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
 
-💬 ROTEIRO DE ENTREVISTAS
-
-PERGUNTA 1: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 2: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 3: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 4: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 5: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-🎓 TRILHA DIO RECOMENDADA
-
-TRILHA: (nome específico da trilha/bootcamp DIO)
-
-POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
-
-PRÓXIMOS PASSOS:
-1. Acesse dio.me
-2. Busque por "(nome da trilha)"
-3. Inscreva-se gratuitamente
-4. Siga o cronograma junto com este roadmap
-
-
-✨ Seu plano está pronto!
-
-Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
-
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
-
-
-## ⚙️ REGRAS DE PERSONALIZAÇÃO
-
-HORAS/SEMANA:
-- Menos de 5h: estender prazos, focar no essencial
-- 5-10h: roadmap padrão
-- Mais de 15h: adicionar conteúdo extra, projetos avançados
-
-EXPERIÊNCIA:
-- Zero: explicações mais didáticas, fundamentos reforçados
-- Iniciante: equilibrar teoria e prática
-- Alguma: focar em gaps específicos e portfolio
-
-OBJETIVO:
-- Primeiro emprego: enfatizar portfolio e entrevistas
-- Transição: destacar transferência de skills
-- Crescimento: focar em skills avançadas
-\
+Quer que eu detalhe exemplos de datasets e projetos extras para você enriquecer ainda mais o portfólio?
